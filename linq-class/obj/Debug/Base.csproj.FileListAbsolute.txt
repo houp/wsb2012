@@ -1,0 +1,5 @@
+C:\Users\houp\documents\visual studio 2010\Projects\linq-class\linq-class\bin\Debug\linq-class.dll
+C:\Users\houp\documents\visual studio 2010\Projects\linq-class\linq-class\bin\Debug\linq-class.pdb
+C:\Users\houp\documents\visual studio 2010\Projects\linq-class\linq-class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\houp\documents\visual studio 2010\Projects\linq-class\linq-class\obj\Debug\linq-class.dll
+C:\Users\houp\documents\visual studio 2010\Projects\linq-class\linq-class\obj\Debug\linq-class.pdb
